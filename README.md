@@ -77,7 +77,7 @@ I care about understanding how things actually work, not just getting them to ru
 ## Featured Projects
 
 <details>
-<summary><b>🤟 Sign SaaS — Live Sign Language Translator</b></summary>
+<summary><b>🤟 GesturAI — Live Sign Language Translator</b></summary>
 <br/>
 
 A web platform that translates sign language in real time and helps users learn it, built solo using Google's Antigravity agentic development platform with Firebase authentication.
@@ -182,18 +182,14 @@ A hands-on project for working with external APIs and rendering live data visual
 ```yaml
 current_focus:
   learning:
-    - "Python fundamentals in depth (Cisco Networking Academy)"
-    - "Core DSA — starting consistent practice after the Python course"
+    - "Python and Java fundamentals in depth "
+    - "Core DSA -- consistent practice and development"
   building:
-    - "Understanding the internals of Sign SaaS, not just shipping it"
+    - "Understanding the internals of GesturAI, not just shipping it"
     - "Small, self-written ML experiments as I move from web dev into AI/ML"
   exploring:
-    - "Agentic development tools (Google Antigravity) and how to use them responsibly"
+    - "Agentic development tools and how to use them responsibly"
     - "Applied ML and where it intersects with the products I want to build"
-  next_6_months:
-    - "Finish the Python certification"
-    - "Start and stay consistent with LeetCode"
-    - "Ship one project I understand completely, end to end"
 ```
 
 ---
